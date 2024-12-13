@@ -36,7 +36,7 @@ const Index = () => {
       <section className="pt-32 pb-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 animate-fade-up">
-            Everything Your Pet Needs in One Place
+            Your Trusted Pet Care Companion
           </h1>
           <p className="text-xl text-secondary mb-8 animate-fade-up" style={{ animationDelay: "0.1s" }}>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet.
